@@ -1,2 +1,2 @@
-# research-ideas
-Random ideas tested that potentially could be used for research
+# Research Ideas 
+Random ideas tested in a small scale that potentially could be used for research
